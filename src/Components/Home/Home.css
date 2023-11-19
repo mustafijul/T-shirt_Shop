@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
     gap: 15px;
+    margin-top: 60px;
 }
 .t-shirts-container{
     display: grid;

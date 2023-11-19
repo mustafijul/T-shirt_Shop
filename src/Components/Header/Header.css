@@ -2,3 +2,8 @@ nav a {
     margin-right: 30px;
     font-size: larger;
 }
+
+nav{
+    background-color: lightgray;
+    padding: 30px;
+}
